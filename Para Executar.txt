@@ -1,0 +1,10 @@
+1. Introdução  
+
+ O projeto está dividido em 3 Partes:
+
+ API, WebSocket e Cliente.O Cliente faz as solicitações ao WebSocket que por fim chama a API que possuí a implementação para realizar os cálculos.
+
+2. Execução:
+ 
+ WebSocket e Api: entrar nas respectivas pastas e depois executar o comando 'node index.js'
+ Cliente: Entrar na pasta 'client' e executar o comando 'http-server -o'(caso use o server do node) se não pode colocar em qualquer outra pasta.

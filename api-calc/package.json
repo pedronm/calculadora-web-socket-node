@@ -1,0 +1,15 @@
+{
+  "name": "api-calc",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Moraes",
+  "license": "MIT",
+  "dependencies": {
+    "calc-module": "file:../calc-module",
+    "express": "^4.17.1"
+  }
+}

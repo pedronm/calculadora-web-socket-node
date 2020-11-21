@@ -1,0 +1,17 @@
+{
+  "name": "mod4_atividade_pratica",
+  "version": "1.0.0",
+  "description": "Atividade prática do módulo de backend com NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Moraes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "luxon": "^1.25.0",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {}
+}
